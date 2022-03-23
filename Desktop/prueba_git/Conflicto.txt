@@ -1,0 +1,5 @@
+Este documento pertence a Lidia del Moral y fue hecho el 22/03/2022.
+
+Se va a emplear para aprendeder a utilizar GitHub.
+
+Esta copia local ha sido modificada en el ordenador.
