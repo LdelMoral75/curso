@@ -1,0 +1,5 @@
+Tarea modulo 2 crear un nuevo fichero.
+Creado el dia 28 de marzo del 2022.
+Creada rama 1 y metarama.
+Modificado fichero y hacer commit.
+
